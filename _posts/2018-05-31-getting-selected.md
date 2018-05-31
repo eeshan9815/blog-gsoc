@@ -13,6 +13,9 @@ I got selected for a project under [JuliaIntervals](https://github.com/JuliaInte
 ## About The Project 
 
 Interval arithmetic provides a way to perform computations with continuous sets of real numbers or vectors, for example to bound the range of a function over a given set.
+
 This can be used to find roots (zeros) of functions in a guaranteed way, by excluding regions where there are no roots and zooming in on roots, but always within a given interval.
+
 It can also be used to do global optimization of functions in a deterministic way, that is, find the global minimum of a non-convex, nonlinear function. Interval methods for global optimization provide a guaranteed bound for the global optimum, and sets that contain the optimizers.
+
 This project proposes to significantly improve these methods using techniques found in the interval arithmetic literature. 
