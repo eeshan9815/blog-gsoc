@@ -4,7 +4,7 @@ title: Getting Selected and First Two Weeks
 ---
 
 The Summer of Code results came out April 23rd, 9:30pm, and I vividly rememeber the moment. I was elated and was surrounded by friends, who seemed equally elated about the results.
-I got selected for Google Summer of Code 2018 under the umbrella organisation NumFOCUS, for a project under the Julia programming language under the mentorship of [David P. Sanders](http://sistemas.fciencias.unam.mx/~dsanders/).
+I got selected for Google Summer of Code 2018 under the umbrella organisation NumFOCUS, for a project under the Julia programming language under the mentorship of [Prof David P. Sanders](http://sistemas.fciencias.unam.mx/~dsanders/).
 
 Julia is a new, up-and-coming programming language, which launched back in 2012 and is undergoing a lot of development on a variety of topics, ranging from the core of the language to its packages for almost everything.
 
