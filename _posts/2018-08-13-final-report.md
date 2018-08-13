@@ -61,7 +61,7 @@ Blog posts summarizing the work done during the entire period.
 
 ## Acknowledgements
 
-I would like to thank Dr David P. Sanders for mentoring me throughout the project, and for his incredible patience and support.
+I would like to thank Dr. David P. Sanders for mentoring me throughout the project, and for his incredible patience and support.
 
 My code builds upon 
 - [julia](https://github.com/JuliaLang/julia)
