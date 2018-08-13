@@ -58,3 +58,17 @@ Blog posts summarizing the work done during the entire period.
 - Rewrite IntervalConstraintProgramming using Cassette and follow the development cycle of Capstan
 - Keep maintaining everything implemented until now, and finding new algorithms to improve the performance and robustness
 - Integrate ICP into IntervalRootFinding and make root finding more efficient
+
+## Acknowledgements
+
+I would like to thank Dr David P. Sanders for mentoring me throughout the project, and for his incredible patience and support.
+
+My code builds upon 
+- [julia](https://github.com/JuliaLang/julia)
+- [IntervalArithmetic.jl](https://github.com/JuliaIntervals/IntervalArithmetic.jl), authored by Dr. David P. Sanders and Dr. Luis Benet
+- [IntervalContractors.jl](https://github.com/JuliaIntervals/IntervalContractors.jl), authored by Dr. David P. Sanders
+- [IntervalConstraintProgramming.jl](https://github.com/JuliaIntervals/IntervalConstraintProgramming.jl), authored by Dr. David P. Sanders
+- [IntervalRootFinding.jl](https://github.com/JuliaIntervals/IntervalRootFinding.jl), authored by Dr. David P. Sanders and Dr. Luis Benet
+- [IntervalOptimisation.jl](https://github.com/JuliaIntervals/IntervalOptimisation.jl), authored by Dr. David P. Sanders
+
+Shoutout to the entire Julia community for being awesome and amazingly helpful!
