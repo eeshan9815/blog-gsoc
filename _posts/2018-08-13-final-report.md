@@ -2,8 +2,6 @@
 layout: post
 title: Final Report
 ---
-# Final Report for Google Summer of Code 2018
-
 
 ## Basic Info
 
