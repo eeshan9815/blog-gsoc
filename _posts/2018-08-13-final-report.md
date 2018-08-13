@@ -1,3 +1,8 @@
+---
+layout: post
+title: Final Report
+---
+
 ## Basic Info
 
 **Name:** Eeshan Gupta ([eeshan9815](https://github.com/eeshan9815))
@@ -14,7 +19,7 @@
 
 ## Pull Requests
 
-| Tasks                 | Related PRs/Issues | Status |
+| Tasks                 | Related PRs | Status |
 |:---------------------:|:------------------:|:------:|
 | Interval Constraint Propagation using a Tape | [IntervalConstraintProgramming.jl#97](https://github.com/JuliaIntervals/IntervalConstraintProgramming.jl/pull/97) | Open |
 | Recording `getindex` to make gradients work  | [IntervalConstraintProgramming.jl#100](https://github.com/JuliaIntervals/IntervalConstraintProgramming.jl/pull/100) | Open |
@@ -34,4 +39,22 @@
 | Bug in `extended_div` | [IntervalArithmetic.jl#146](https://github.com/JuliaIntervals/IntervalArithmetic.jl/pull/146) | Merged |
 | Set Operations | [IntervalArithmetic.jl#154](https://github.com/JuliaIntervals/IntervalArithmetic.jl/pull/154) | Merged |
 | Hashing for Intervals | [IntervalArithmetic.jl#161](https://github.com/JuliaIntervals/IntervalArithmetic.jl/pull/161) | Merged |
-| Interoperability IntervalBox and SVector | [IntervalArithmetic.jl#166](https://github.com/JuliaIntervals/IntervalArithmetic.jl/pull/166) | Merged |
+| Interoperability between IntervalBox and SVector | [IntervalArithmetic.jl#166](https://github.com/JuliaIntervals/IntervalArithmetic.jl/pull/166) | Merged |
+
+## Blog Posts
+
+Blog posts summarizing the work done during the entire period.
+
+1. [Getting Selected and First Two Weeks](https://eeshan9815.github.io/blog-gsoc/getting-selected/)
+2. [Weeks 3 and 4](https://eeshan9815.github.io/blog-gsoc/weeks-3-and-4/)
+3. [Coding Phase-II](https://eeshan9815.github.io/blog-gsoc/coding-phase-2/)
+4. [Coding Phase-III](https://eeshan9815.github.io/blog-gsoc/coding-phase-3/)
+
+
+## Future Work
+
+- Integrate the global optimisation into [JuMP](https://github.com/JuliaOpt/JuMP.jl/) since it's the standard for Mathematical Optimisation in Julia
+- Improve constrained optimisation using John Conditions
+- Rewrite IntervalConstraintProgramming using Cassette and follow the development cycle of Capstan
+- Keep maintaining everything implemented until now, and finding new algorithms to improve the performance and robustness
+- Integrate ICP into IntervalRootFinding and make root finding more efficient
