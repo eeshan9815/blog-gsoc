@@ -1,4 +1,8 @@
-# GSoC 2018 Final Report
+---
+layout: post
+title: Final Report
+---
+# Google Summer of Code 2018 Final Report
 
 
 ## Basic Info
