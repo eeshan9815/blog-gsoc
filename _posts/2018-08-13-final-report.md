@@ -1,6 +1,3 @@
-# GSoC 2018 Final Report
-
-
 ## Basic Info
 
 **Name:** Eeshan Gupta ([eeshan9815](https://github.com/eeshan9815))
