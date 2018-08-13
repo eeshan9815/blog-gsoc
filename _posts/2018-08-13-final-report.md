@@ -20,7 +20,7 @@ title: Final Report
 ## Pull Requests
 
 | Tasks                 | Related PRs/Issues | Status |
-|:---------------------:|:------------------:|:------:|
+|-----------------------|:------------------:|:------:|
 | Interval Constraint Propagation using a Tape | [IntervalConstraintProgramming.jl#97](https://github.com/JuliaIntervals/IntervalConstraintProgramming.jl/pull/97) | Open |
 | Recording `getindex` to make gradients work  | [IntervalConstraintProgramming.jl#100](https://github.com/JuliaIntervals/IntervalConstraintProgramming.jl/pull/100) | Open |
 | Global Optimisation | [IntervalOptimisation.jl#9](https://github.com/JuliaIntervals/IntervalOptimisation.jl/pull/9) | Open |
