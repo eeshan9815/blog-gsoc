@@ -18,4 +18,4 @@ The API of the Interval Optimisation was also improved, and the use of `icp` add
 
 I also went to JuliaCon 2018 in London during this time and met a lot of amazing people who have created the Julia language and its incredible package ecosystem. It was a great experience, and I would like to thank the entire community for being so awesome! I also presented a poster there on my work which can be found [here](https://drive.google.com/file/d/1pY6oqiZOj6ZFEUiBy3sQg_DGuoTVSfKC/view?usp=sharing)
 
-A final report for the work done during GSoC which includes the future goals and plans can be found here - https://eeshan9815.github.io/blog-gsoc/final-report/
+A final report for the work done during GSoC which includes the future goals and plans can be found [here](https://eeshan9815.github.io/blog-gsoc/final-report/)
