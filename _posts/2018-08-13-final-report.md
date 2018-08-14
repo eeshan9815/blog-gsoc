@@ -23,6 +23,7 @@ title: Final Report
 |:---------------------:|:------------------:|:------:|
 | Interval Constraint Propagation using a Tape | [IntervalConstraintProgramming.jl#97](https://github.com/JuliaIntervals/IntervalConstraintProgramming.jl/pull/97) | Open |
 | Recording `getindex` to make gradients work  | [IntervalConstraintProgramming.jl#100](https://github.com/JuliaIntervals/IntervalConstraintProgramming.jl/pull/100) | Open |
+| Fix deprecations for Julia 0.7  | [IntervalConstraintProgramming.jl#101](https://github.com/JuliaIntervals/IntervalConstraintProgramming.jl/pull/101) | Open |
 | Global Optimisation | [IntervalOptimisation.jl#9](https://github.com/JuliaIntervals/IntervalOptimisation.jl/pull/9) | Open |
 | Interval Newton Method for one dimension | [IntervalRootFinding.jl#39](https://github.com/JuliaIntervals/IntervalRootFinding.jl/pull/39) | Merged |
 | Robustness and efficiency for `newton1d` | [IntervalRootFinding.jl#50](https://github.com/JuliaIntervals/IntervalRootFinding.jl/pull/50) | Merged |
